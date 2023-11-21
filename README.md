@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha384-xmJ50eEXGeZTHLQTeg7Si4FqXyFYM2pb2QJy8C3p5Y2IKqj6a3F8eI1pzhKRf33E" crossorigin="anonymous">
 
 <h1 align="center">
-Hi there 👋, I'm Raufun Nazin Srizon
+Hello 👋, I'm Raufun Nazin Srizon
 </h1>
 
 <hr/>
@@ -13,7 +13,7 @@ Student, Software Developer
 
 - B.Sc (Hons.) in [Computer Science and Engineering, University of Dhaka](https://www.du.ac.bd/body/CSE)
 
-- How to reach me:
+- Reach me:
 
   - <raufun.nazin@gmail.com>
   - [LinkedIn](https://www.linkedin.com/in/raufun-nazin-srizon-122b4b229/)
@@ -74,6 +74,6 @@ Misc.
 <div>
   <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="Figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/>
-  <img src="https://assets.stickpng.com/images/586d7feb25738d9f2d793e96.png" alt="Adobe Illustrator" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/b3a1cdd20d0f308634ddd4598cdaa729c2d77047f51e66fa7206b9b4bac94c23/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" alt="Arduino" width="40" height="40"/>\
+  <img src="https://cdn1.iconfinder.com/data/icons/adobe-3/512/Illustrator.png" alt="Adobe Illustrator" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/b3a1cdd20d0f308634ddd4598cdaa729c2d77047f51e66fa7206b9b4bac94c23/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" alt="Arduino" width="40" height="40"/>
 </div>
