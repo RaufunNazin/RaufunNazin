@@ -1,79 +1,101 @@
-<!-- Include Font Awesome stylesheet -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha384-xmJ50eEXGeZTHLQTeg7Si4FqXyFYM2pb2QJy8C3p5Y2IKqj6a3F8eI1pzhKRf33E" crossorigin="anonymous">
+# 👋 Hello, I'm Raufun Nazin Srizon
 
-<h1 align="center">
-Hello 👋, I'm Raufun Nazin Srizon
-</h1>
+## 🎓 Student | 💻 Software Engineer | 📍 Dhaka, Bangladesh  
+[![Portfolio](https://img.shields.io/badge/Portfolio-srizon.vercel.app-blue?logo=vercel)](https://srizon.vercel.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raufun%20Nazin%20Srizon-blue?logo=linkedin)](https://www.linkedin.com/in/raufunnazin/)  
+[![GitHub](https://img.shields.io/badge/GitHub-RaufunNazin-black?logo=github)](https://github.com/RaufunNazin)  
+📫 **Email:** [raufun.nazin13@gmail.com](mailto:raufun.nazin13@gmail.com)
 
-<hr/>
+---
 
-<h3 align="center">
-Student, Software Developer
-</h3>
+## 🧠 Introduction
 
-- B.Sc (Hons.) in [Computer Science and Engineering, University of Dhaka](https://www.du.ac.bd/body/CSE)
+I am Raufun Nazin Srizon, a passionate software developer. With a strong background in front-end technologies, backend frameworks, and UI/UX design, I contribute effectively to full-stack projects. Currently focusing on AI-driven video summarization for my undergraduate thesis, I'm eager to work on innovative software products and meaningful team collaborations.
 
-- Reach me:
+---
 
-  - <raufun.nazin@gmail.com>
-  - [LinkedIn](https://www.linkedin.com/in/raufun-nazin-srizon-122b4b229/)
-  - [Facebook](https://www.facebook.com/Raki5858/)
+## 📚 Education
 
-- [Know about my experiences](https://drive.google.com/file/d/1gU2uPbuxsMVrOrPd3u74voY_sJolEJO-/view?usp=sharing)
+**University of Dhaka**  
+_B.Sc. in Computer Science and Engineering_  
+📅 Jan 2020 – Mar 2025  
 
-## Language and Tools
+**Thesis:**  
+**AI-driven video summarization** that removes monotonous parts and extracts only exciting moments from long videos.  
+🛠️ Technologies: `FFmpeg`, `Hugging Face Transformers`, `FastAPI`, `ReactJS`
 
-<div style="border-left: 3px solid #adadad; padding-left: 10px;">
+---
 
-Languages
+## 💼 Experience
 
-</div>
+### 🏢 **Software Engineer – Maestro Solutions Ltd.**  
+📍 Dhaka, Bangladesh | 🗓️ May 2025 – Present (Full-time, On-site)  
+- Developed a **network device monitoring app** using SNMP for ISPs.
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</div>
+### 🧠 **Software Engineer – Shaped.ai**  
+🌐 Remote | 🗓️ Apr 2023 – Mar 2024 (Contract)  
+- Created complex statistical **data visualizations using visx**.
 
-<div style="border-left: 3px solid #adadad; padding-left: 10px;">
+### 📄 **Full Stack Developer – Zoopsign**  
+🌐 Remote | 🗓️ Jun 2022 – Mar 2023 (Contract)  
+- Led the development of **EditPDF**, enabling PDF editing with text, shapes, and images.
 
-Frontend
+### 🧪 **Developer Intern – Amicsoft**  
+📍 Dhaka | 🗓️ Jan 2022 – May 2022  
+- Gained hands-on experience with real-world applications and software practices.
 
-</div>
+---
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React JS" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/3aa42ee93eafa8f736bac662e8ca536350dad790ba36f2f0cb1783aa2be42f6d/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SasS" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="Tailwind" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="50" height="40"/>
-  <img src="https://camo.githubusercontent.com/9be0208aa516b4d1976412d27e9f73d851ea253f8ee005a0b600939f841bba8b/68747470733a2f2f7777772e63686172746a732e6f72672f6d656469612f6c6f676f2d7469746c652e737667" alt="Chart.js" width="40" height="40"/>
-</div>
+## 🚀 Projects
 
-<div style="border-left: 3px solid #adadad; padding-left: 10px;">
+| Project | Description | Tech Stack | Live |
+|--------|-------------|------------|------|
+| **MS Admission Portal, CSEDU** | Official MSc admission portal for CSE, DU. | `ReactJS`, `PHP`, `Oracle` | [🔗 msadmission.cse.du.ac.bd](https://msadmission.cse.du.ac.bd/) |
+| **PMICS Admission Portal, CSEDU** | Admission system for Cyber Security program. | `ReactJS`, `PHP`, `Oracle` | [🔗 pmics.cse.du.ac.bd](https://pmics.cse.du.ac.bd/) |
+| **UKWay** | Education consultancy website. | `Next.js`, `UI/UX Design` | [🔗 ukway.vercel.app](https://ukway.vercel.app/) |
+| **Snapgenix** | Photography portfolio website. | `ReactJS`, `Tailwind`, `FastAPI` | [🔗 snapgenix.vercel.app](https://snapgenix.com/) |
+| **Swadesh Food** | E-commerce site for agro products. | `ReactJS`, `MySQL`, `Node.js` | In progress |
 
-Backend
+---
 
-</div>
+## 🏆 Achievements
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/>
-</div>
+- 🥇 Finalist — **Code Samurai 2024** (Hosted by CSE, DU)  
+- 🏅 Finalist — **ITVerse 2023** (Hosted by IIT, DU)
 
-<div style="border-left: 3px solid #adadad; padding-left: 10px;">
+---
 
-Misc.
+## 🧰 Languages and Tools
 
-</div>
+### 💻 Programming Languages
 
-<div>
-  <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/>
-  <img src="https://cdn1.iconfinder.com/data/icons/adobe-3/512/Illustrator.png" alt="Adobe Illustrator" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/b3a1cdd20d0f308634ddd4598cdaa729c2d77047f51e66fa7206b9b4bac94c23/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" alt="Arduino" width="40" height="40"/>
-</div>
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| C | C++ | JavaScript | TypeScript | Python | Java |
+
+### 🎨 Frontend
+
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40"/> |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| HTML5 | CSS3 | React | Next.js | Sass | Tailwind CSS | Bootstrap |
+
+### 🔧 Backend
+
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/> |
+|:--:|:--:|:--:|:--:|:--:|
+| Node.js | FastAPI | Express.js | Django | Spring Boot |
+
+### 🛢️ Databases
+
+- MySQL | PostgreSQL | MongoDB | Oracle
+
+### ⚙️ Tools & Platforms
+
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/> | <img src="https://cdn1.iconfinder.com/data/icons/adobe-3/512/Illustrator.png" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/> |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Docker | Linux | Figma | Photoshop | Illustrator | Arduino |
+
+---
+
+> ⚡ *“Always building, always learning.”*
+
