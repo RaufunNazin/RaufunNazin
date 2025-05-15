@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-srizon.vercel.app-blue?logo=vercel)](https://srizon.vercel.app)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raufun%20Nazin%20Srizon-blue?logo=linkedin)](https://www.linkedin.com/in/raufunnazin/)  
 [![GitHub](https://img.shields.io/badge/GitHub-RaufunNazin-black?logo=github)](https://github.com/RaufunNazin)  
-[![Email](mailto:raufun.nazin13@gmail.com)](raufun.nazin13@gmail.com)
+[![Email](https://img.shields.io/badge/Email-raufun.nazin13@gmail.com-red?logo=gmail)](mailto:raufun.nazin13@gmail.com)
 
 ---
 
