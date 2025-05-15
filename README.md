@@ -1,16 +1,8 @@
 # 👋 Hello, I'm Raufun Nazin Srizon
 
-## 🎓 Student | 💻 Software Engineer | 📍 Dhaka, Bangladesh  
-[![Portfolio](https://img.shields.io/badge/Portfolio-srizon.vercel.app-blue?logo=vercel)](https://srizon.vercel.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raufun%20Nazin%20Srizon-blue?logo=linkedin)](https://www.linkedin.com/in/raufunnazin/)  
-[![GitHub](https://img.shields.io/badge/GitHub-RaufunNazin-black?logo=github)](https://github.com/RaufunNazin)  
-[![Email](https://img.shields.io/badge/Email-raufun.nazin13@gmail.com-red?logo=gmail)](mailto:raufun.nazin13@gmail.com)
+## 💻 Software Engineer | 💼 4 YoE | 📍 Dhaka, Bangladesh  
 
----
-
-## 🧠 Introduction
-
-I am Raufun Nazin Srizon, a passionate software developer. With a strong background in front-end technologies, backend frameworks, and UI/UX design, I contribute effectively to full-stack projects. Currently focusing on AI-driven video summarization for my undergraduate thesis, I'm eager to work on innovative software products and meaningful team collaborations.
+[![Portfolio](https://img.shields.io/badge/Portfolio-gray?logo=vercel)](https://srizon.vercel.app)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/raufunnazin/)  [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=f5f5f5)](mailto:raufun.nazin13@gmail.com)
 
 ---
 
@@ -29,32 +21,42 @@ _B.Sc. in Computer Science and Engineering_
 ## 💼 Experience
 
 ### 🏢 **Software Engineer – Maestro Solutions Ltd.**  
+
 📍 Dhaka, Bangladesh | 🗓️ May 2025 – Present (Full-time, On-site)  
-- Developed a **network device monitoring app** using SNMP for ISPs.
+
+- Developing a **network device monitoring app** using SNMP for ISPs.
+- Developing a **graphical representation app** to visualize connection from an ISP to a customer.
 
 ### 🧠 **Software Engineer – Shaped.ai**  
-🌐 Remote | 🗓️ Apr 2023 – Mar 2024 (Contract)  
-- Created complex statistical **data visualizations using visx**.
+
+🌐 Remote, USA | 🗓️ Apr 2023 – Mar 2024 (Contract)  
+
+- Created complex statistical **data visualizations** using **visx**.
+- Created a **fully interactive scatter chart** to display **10,000** points.
 
 ### 📄 **Full Stack Developer – Zoopsign**  
-🌐 Remote | 🗓️ Jun 2022 – Mar 2023 (Contract)  
-- Led the development of **EditPDF**, enabling PDF editing with text, shapes, and images.
 
-### 🧪 **Developer Intern – Amicsoft**  
-📍 Dhaka | 🗓️ Jan 2022 – May 2022  
-- Gained hands-on experience with real-world applications and software practices.
+🌐 Remote, India | 🗓️ Jun 2022 – Mar 2023 (Contract)
+
+- Created a premium app **EditPDF**, that allows PDF editing with text, shapes, and images.
+
+### 🧪 **Developer Intern – Amicsoft**
+
+📍 Dhaka, Bangladesh | 🗓️ Jan 2022 – May 2022 (Internship, Part-time)
+
+- Gained hands-on experience with **real-world applications** and software practices.
 
 ---
 
 ## 🚀 Projects
 
-| Project | Description | Tech Stack | Live |
-|--------|-------------|------------|------|
-| **MS Admission Portal, CSEDU** | Official MSc admission portal for CSE, DU. | `ReactJS`, `PHP`, `Oracle` | [🔗 msadmission.cse.du.ac.bd](https://msadmission.cse.du.ac.bd/) |
-| **PMICS Admission Portal, CSEDU** | Admission system for Cyber Security program. | `ReactJS`, `PHP`, `Oracle` | [🔗 pmics.cse.du.ac.bd](https://pmics.cse.du.ac.bd/) |
-| **UKWay** | Education consultancy website. | `Next.js`, `UI/UX Design` | [🔗 ukway.vercel.app](https://ukway.vercel.app/) |
-| **Snapgenix** | Photography portfolio website. | `ReactJS`, `Tailwind`, `FastAPI` | [🔗 snapgenix.vercel.app](https://snapgenix.com/) |
-| **Swadesh Food** | E-commerce site for agro products. | `ReactJS`, `MySQL`, `Node.js` | In progress |
+| Project | Description | Tech Stack |
+|--------|---------------|------|
+| [🔗 **MS Admission Portal, CSEDU**](https://msadmission.cse.du.ac.bd/) | Official MSc admission portal for CSE, DU. | `ReactJS`, `PHP`, `Oracle`|
+| [🔗 **PMICS Admission Portal, CSEDU**](https://pmics.cse.du.ac.bd/) | Admission system for Cyber Security program. | `ReactJS`, `PHP`, `Oracle` |
+| [🔗 **UKWay**](https://ukway.vercel.app/) | Education consultancy website. | `Next.js`, `UI/UX Design` |
+| [🔗 **Snapgenix**](https://snapgenix.com/) | Photography portfolio website. | `ReactJS`, `Tailwind`, `FastAPI` |
+| **Swadesh Food** | E-commerce site for agro products. | `ReactJS`, `MySQL`, `FastAPI` |
 
 ---
 
@@ -69,33 +71,42 @@ _B.Sc. in Computer Science and Engineering_
 
 ### 💻 Programming Languages
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| C | C++ | JavaScript | TypeScript | Python | Java |
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 ### 🎨 Frontend
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40"/> |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| HTML5 | CSS3 | React | Next.js | Sass | Tailwind CSS | Bootstrap |
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 
 ### 🔧 Backend
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/> |
-|:--:|:--:|:--:|:--:|:--:|
-| Node.js | FastAPI | Express.js | Django | Spring Boot |
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 
 ### 🛢️ Databases
 
-- MySQL | PostgreSQL | MongoDB | Oracle
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ### ⚙️ Tools & Platforms
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/> | <img src="https://cdn1.iconfinder.com/data/icons/adobe-3/512/Illustrator.png" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/> |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Docker | Linux | Figma | Photoshop | Illustrator | Arduino |
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+
 
 ---
 
-> ⚡ *“Always building, always learning.”*
-
+> ⚡ _“Always building, always learning.”_
