@@ -54,9 +54,9 @@ _B.Sc. in Computer Science and Engineering_
 |--------|---------------|------|
 | [🔗 **MS Admission Portal, CSEDU**](https://msadmission.cse.du.ac.bd/) | Official MSc admission portal for CSE, DU. | `ReactJS`, `PHP`, `Oracle`|
 | [🔗 **PMICS Admission Portal, CSEDU**](https://pmics.cse.du.ac.bd/) | Admission system for Cyber Security program. | `ReactJS`, `PHP`, `Oracle` |
+| [🔗 **EditPDF**](https://app.zoopsign.com/edit-pdf/) | PDF Editing Tool. | `Next.js`, `Node.js` |
 | [🔗 **UKWay**](https://ukway.vercel.app/) | Education consultancy website. | `Next.js`, `UI/UX Design` |
-| [🔗 **Snapgenix**](https://snapgenix.com/) | Photography portfolio website. | `ReactJS`, `Tailwind`, `FastAPI` |
-| **Swadesh Food** | E-commerce site for agro products. | `ReactJS`, `MySQL`, `FastAPI` |
+| **Snapgenix** | Photography portfolio website. | `ReactJS`, `Tailwind`, `FastAPI` |
 
 ---
 
@@ -105,7 +105,6 @@ _B.Sc. in Computer Science and Engineering_
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-
 
 ---
 
