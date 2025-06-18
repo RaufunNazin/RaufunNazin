@@ -56,7 +56,7 @@ _B.Sc. in Computer Science and Engineering_
 | [🔗 **PMICS Admission Portal, CSEDU**](https://pmics.cse.du.ac.bd/) | Admission system for Cyber Security program. | `ReactJS`, `PHP`, `Oracle` |
 | [🔗 **EditPDF**](https://app.zoopsign.com/edit-pdf/) | PDF Editing Tool. | `Next.js`, `Node.js` |
 | [🔗 **UKWay**](https://ukway.vercel.app/) | Education consultancy website. | `Next.js`, `UI/UX Design` |
-| **Snapgenix** | Photography portfolio website. | `ReactJS`, `Tailwind`, `FastAPI` |
+| [🔗 **1Class**](https://1class.app/) | Virtual Learning Platform. | `NextJS`, `Tailwind`, `Node.js` |
 
 ---
 
