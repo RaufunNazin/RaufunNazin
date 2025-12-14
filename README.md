@@ -2,7 +2,7 @@
 
 ## 💻 Software Engineer | 💼 4 YoE | 📍 Dhaka, Bangladesh  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gray?logo=vercel)](https://srizon.vercel.app)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/raufunnazin/)  [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=f5f5f5)](mailto:raufun.nazin13@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gray?logo=vercel)](https://srizon.me)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/raufunnazin/)  [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=f5f5f5)](mailto:raufun.nazin13@gmail.com)
 
 ---
 
