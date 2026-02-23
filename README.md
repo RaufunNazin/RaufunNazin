@@ -24,8 +24,8 @@ _B.Sc. in Computer Science and Engineering_
 
 📍 Dhaka, Bangladesh | 🗓️ May 2025 – Present (Full-time, On-site)  
 
-- Developing a **network device monitoring app** using SNMP for ISPs.
-- Developing a **graphical representation app** to visualize connection from an ISP to a customer.
+- Developing a **network diagram** to visualize connection from an ISP to a customer.
+- Created a **network device monitoring app** using SNMP and Telnet for ISPs.
 
 ### 🧠 **Software Engineer – Shaped.ai**  
 
@@ -54,9 +54,9 @@ _B.Sc. in Computer Science and Engineering_
 |--------|---------------|------|
 | [🔗 **MS Admission Portal, CSEDU**](https://msadmission.cse.du.ac.bd/) | Official MSc admission portal for CSE, DU. | `ReactJS`, `PHP`, `Oracle`|
 | [🔗 **PMICS Admission Portal, CSEDU**](https://pmics.cse.du.ac.bd/) | Admission system for Cyber Security program. | `ReactJS`, `PHP`, `Oracle` |
-| [🔗 **EditPDF**](https://app.zoopsign.com/edit-pdf/) | PDF Editing Tool. | `Next.js`, `Node.js` |
-| [🔗 **UKWay**](https://ukway.vercel.app/) | Education consultancy website. | `Next.js`, `UI/UX Design` |
-| [🔗 **1Class**](https://1class.app/) | Virtual Learning Platform. | `NextJS`, `Tailwind`, `Node.js` |
+| [🔗 **SwadeshFood**](https://swadeshfood.app/) | E-Commerce (Under development). | `ReactJS`, `FastAPI` |
+| [🔗 **UKWay**](https://ukway.vercel.app/) | Education consultancy website. | `Next.js`, `FastAPI` |
+| [🔗 **1Class**](https://1class.app/) | Virtual Learning Platform. | `Next.js`,, `Node.js` |
 
 ---
 
