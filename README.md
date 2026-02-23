@@ -56,7 +56,7 @@ _B.Sc. in Computer Science and Engineering_
 | [🔗 **PMICS Admission Portal, CSEDU**](https://pmics.cse.du.ac.bd/) | Admission system for Cyber Security program. | `ReactJS`, `PHP`, `Oracle` |
 | [🔗 **SwadeshFood**](https://swadeshfood.app/) | E-Commerce (Under development). | `ReactJS`, `FastAPI` |
 | [🔗 **UKWay**](https://ukway.vercel.app/) | Education consultancy website. | `Next.js`, `FastAPI` |
-| [🔗 **1Class**](https://1class.app/) | Virtual Learning Platform. | `Next.js`,, `Node.js` |
+| [🔗 **1Class**](https://1class.app/) | Virtual Learning Platform. | `Next.js`, `Node.js` |
 
 ---
 
